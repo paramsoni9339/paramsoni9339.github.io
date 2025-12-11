@@ -219,8 +219,8 @@ const testimonials = [
     imgPath: "/images/client2.png",
   },
   {
-    name: "EazyByts Team Lead",
-    mentions: "@eazybyts",
+    name: "Findrome",
+    mentions: "@findrome",
     review: "Param's ability to grasp complex concepts and implement innovative solutions has been invaluable to our development projects.",
     imgPath: "/images/client3.png",
   },
